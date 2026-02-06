@@ -39,9 +39,3 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/mysql.png" width="26px" alt="vscode"></a></code>
 <code><a href="https://github.com/danielex1999/danielex1999/blob/main/resources/github-git-cheat-sheet.pdf" target="_blank"><img src="img/Learned_technologies/git.png" width="26px" alt="git"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/terminal.png" width="26px" alt="terminal"></a></code>
-
----
-
-<p align="center">
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=danielex1999&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
-</p>
