@@ -22,9 +22,6 @@ Mi historia no es sino una de miles y el mundo no sufrirá porque acabe prematur
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/azure.svg"	width="30px" alt="azure"></a></code>
 
 
-
-
- 
 ### :file_folder: Learned technologies
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/Jenkins_logo.svg"	width="20px" alt="Jenkins"></a></code>
 <code><a href="https://www.selenium.dev" target="_blank"><img src="img/Learned_technologies/selenium.png"	width="26px" alt="selenium"></a></code>
