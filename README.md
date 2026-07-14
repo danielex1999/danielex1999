@@ -44,6 +44,7 @@ Currently preparing for:
 - **AZ-400: Microsoft DevOps Engineer Expert**
 - **Certified Kubernetes Administrator (CKA)**
 - **Certified Kubernetes Application Developer (CKAD)**
+- **AWS Certified DevOps Engineer**
 
 
 Focused on improving my skills in Azure Cloud, DevOps, CI/CD, containers, and Infrastructure as Code.
