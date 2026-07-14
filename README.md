@@ -31,3 +31,19 @@ Mi historia no es sino una de miles y el mundo no sufrirá porque acabe prematur
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/css.png" width="26px" alt="css"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/mysql.png" width="26px" alt="vscode"></a></code>
 <code><a href="https://github.com/danielex1999/danielex1999/blob/main/resources/github-git-cheat-sheet.pdf" target="_blank"><img src="img/Learned_technologies/git.png" width="26px" alt="git"></a></code>
+
+# Certifactions
+
+### :dart: Future certifications
+
+<code><img src="img/currently_learning/azure.svg" width="30px" alt="Azure"></code>
+
+Currently preparing for:
+
+- **AZ-104: Microsoft Azure Administrator Associate**
+- **AZ-400: Microsoft DevOps Engineer Expert**
+- **Certified Kubernetes Administrator (CKA)**
+- **Certified Kubernetes Application Developer (CKAD)**
+
+
+Focused on improving my skills in Azure Cloud, DevOps, CI/CD, containers, and Infrastructure as Code.
