@@ -24,7 +24,7 @@ Mi historia no es sino una de miles y el mundo no sufrirá porque acabe prematur
 
 ### :file_folder: Learned technologies
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/Jenkins_logo.svg"	width="20px" alt="Jenkins"></a></code>
-<code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/Docker.png"	width="30px" alt="Jenkins"></a></code>
+<code><a href="[https://github.com/danielex1999](https://github.com/danielex1999/docker-learning-roadmap)" target="_blank"><img src="img/Learned_technologies/Docker.png"	width="30px" alt="Jenkins"></a></code>
 <code><a href="https://www.selenium.dev" target="_blank"><img src="img/Learned_technologies/selenium.png"	width="26px" alt="selenium"></a></code>
 <code><a href="https://github.com/danielex1999/JavaScript-Course" target="_blank"><img src="img/Learned_technologies/js.jpg" width="22px" alt="js"></a></code> 
 <code><a href="https://github.com/danielex1999/Java-Course" target="_blank"><img src="img/Learned_technologies/java.png" width="22px" alt="java"></a></code>
