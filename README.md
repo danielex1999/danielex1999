@@ -5,21 +5,13 @@ Mi usuario es @danielex1999
 
 ![](https://komarev.com/ghpvc/?username=danielex1999&color=00a0a0&style=plastic)
 
+:books: Actualmente estoy aprendiendo:
 
 
-```
-Mi historia no es sino una de miles y el mundo no sufrirá porque acabe prematuramente.
-```
-
+<code><a href="https://github.com/danielex1999" target="_blank"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/3840px-Kubernetes_logo_without_workmark.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"	width="25px" alt="kubernetes"></a></code>
 
 
 ## Sobre mí
-
-### :books: I'm currently learning
-
-
-<code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/azure.svg"	width="30px" alt="azure"></a></code>
-
 
 ### :file_folder: Learned technologies
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/Jenkins_logo.svg"	width="20px" alt="Jenkins"></a></code>
