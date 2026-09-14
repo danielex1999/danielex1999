@@ -13,10 +13,14 @@ Mi usuario es @danielex1999
 
 🏅 **Badges:**
 
+<img src="https://developers.google.com/profile/badges/events/io/2024/registered/badge.svg" width="50px" alt="Google I/O 2024 Registered">
+
 ## Sobre mí
 
 
 ### :file_folder: **Tecnologías Aprendidas**
+
+
 
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/Jenkins_logo.svg"	width="20px" alt="Jenkins"></a></code>
 <code><a href="https://github.com/danielex1999/docker-learning-roadmap" target="_blank"><img src="img/Learned_technologies/Docker.png"	width="30px" alt="Jenkins"></a></code>
