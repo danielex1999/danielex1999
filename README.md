@@ -1,20 +1,19 @@
-## About me
-
+## Hola soy Juan Daniel Cavero Tovar
 <img align="right" width="245" src="img/noctis.gif"/>
 
-### `Hello` I'm Juan Daniel Cavero Tovar.
+Mi usuario es @danielex1999
 
 ![](https://komarev.com/ghpvc/?username=danielex1999&color=00a0a0&style=plastic)
 
-My username is @danielex1999:
+
 
 ```
 Mi historia no es sino una de miles y el mundo no sufrirá porque acabe prematuramente.
 ```
 
----
 
-# Biography
+
+## Sobre mí
 
 ### :books: I'm currently learning
 
