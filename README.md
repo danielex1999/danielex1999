@@ -9,7 +9,7 @@ Mi usuario es @danielex1999
 
 | Por hacer      | En progreso |
 | :----: | :----: |
-|<code><img src="img/currently_learning/azure.svg" width="30px" alt="Azure"></code><code><img src="img/currently_learning/azure.svg" width="30px" alt="Azure"></code> <code><img src="img/currently_learning/azure.svg" width="30px" alt="Azure"></code> |<code><a href="https://github.com/danielex1999" target="_blank"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/3840px-Kubernetes_logo_without_workmark.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"	width="25px" alt="kubernetes"></a></code>|
+|<code><img src="img/currently_learning/azure.svg" width="30px" alt="Azure"></code><code><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="30px" alt="Python"><br></code> <code><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ansible-light.png" width="30px" alt="Azure"></code> |<code><a href="https://github.com/danielex1999" target="_blank"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/3840px-Kubernetes_logo_without_workmark.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"	width="25px" alt="kubernetes"></a></code>|
 
 🏅 **Badges:**
 
