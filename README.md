@@ -13,7 +13,8 @@ Mi usuario es @danielex1999
 
 🏅 **Badges:**
 
-<img src="	https://www.gstatic.com/googledevelopers/profile/badges/events/io/2026/registered/badge.svg" width="80px" alt="Google I/O 2026 Registered"><img src="https://developers.google.com/profile/badges/community/gdg/chapter/badge.svg" width="80px" alt="Google Developer Group Lima">
+<img src="https://www.gstatic.com/googledevelopers/profile/badges/events/io/2026/registered/badge.svg" width="80px" alt="Google I/O 2026 Registered">
+<img src="https://developers.google.com/profile/badges/community/gdg/chapter/badge.svg" width="80px" alt="Google Developer Group Lima">
 
 ## Sobre mí
 
