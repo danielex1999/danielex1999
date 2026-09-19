@@ -1,5 +1,5 @@
 ## Hola soy Juan Daniel Cavero Tovar
-<img align="right" width="245" src="img/noctis.gif"/>
+<img align="right" width="50" src="img/ContactMe/FF6-badge.png"/>
 
 Mi usuario es @danielex1999
 
